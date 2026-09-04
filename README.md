@@ -3,6 +3,8 @@
 <!-- replace USER/REPO below with your actual GitHub path before pushing -->
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/USER/REPO/blob/main/frizzy_comfyui_colab.ipynb)
 
+⚠️ Educational purposes only. This runs ComfyUI on Google Colab's free tier, which goes against Colab's usage terms — it may stop working at any time, and heavy use could get your free GPU access limited. Use at your own risk and your own judgment. Not affiliated with or endorsed by Google.
+
 A ComfyUI runner notebook for the free Colab tier. Four cells, no toggles for things that
 should always be on, and every model downloads onto the VM instead of your laptop.
 
